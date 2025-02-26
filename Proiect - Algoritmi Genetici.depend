@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1712742135 source:d:\algoritmi avansati\proiect - algoritmi genetici\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<iomanip>
+	<random>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
